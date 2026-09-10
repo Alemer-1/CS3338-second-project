@@ -1,0 +1,51 @@
+commit a61873574643981564880282bc15b54eb52fcb1f
+Merge: 24d81c0 02f5e58
+Author: Felix Huerta <felixhuerta33@gmail.com>
+Date:   Thu Sep 10 14:56:16 2026 -0700
+
+    Resolved index conlifct.
+
+commit 02f5e5809cae939f07dbe4beeba3da2ff8b2dd46
+Author: Felix Huerta <felixhuerta33@gmail.com>
+Date:   Thu Sep 10 14:51:36 2026 -0700
+
+    Added my fav game.
+
+commit 24d81c05deaf9a9b7cb6e3c3aea15a134ff0aa7d
+Author: Felix Huerta <felixhuerta33@gmail.com>
+Date:   Thu Sep 10 14:48:51 2026 -0700
+
+    Added my fav food.
+
+commit 07cb85073c8e918b38ef0bb8b0bae6d1b6958eda
+Author: Felix Huerta <felixhuerta33@gmail.com>
+Date:   Fri Sep 4 11:25:15 2026 -0700
+
+    Adding README.md file
+
+commit fca3479f867b33ba382ed3411e27f58a343f112b
+Author: Felix Huerta <felixhuerta33@gmail.com>
+Date:   Fri Sep 4 11:25:15 2026 -0700
+
+    Adding README.md file
+
+commit d8ec1e0f2ff093d253acd580b56028927f8d1b65
+Merge: 1d2bfc0 82cbff1
+Author: Felix Huerta <felixhuerta33@gmail.com>
+Date:   Fri Sep 4 11:19:38 2026 -0700
+
+    Merge pull request #1 from Alemer-1/info-fill
+    
+    Changed index to include name and hobby.
+
+commit 82cbff104e45fa919e53338e8623cad2715e91c0
+Author: Felix Huerta <felixhuerta33@gmail.com>
+Date:   Fri Sep 4 11:03:02 2026 -0700
+
+    Changed index to include name and hobby.
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
